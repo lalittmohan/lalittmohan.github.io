@@ -12,3 +12,4 @@
 ### open source 
 [es_sync](https://www.linkedin.com/pulse/magento2-nosql-database-pwa-support-piotr-karwatka/)
 [microservices](https://microservicesbook.org/#omnichannel)
+[loyality](https://docs.openloyalty.io/en/latest/userguide/index.html)
