@@ -8,3 +8,6 @@
 
 ### Certifications
 <a href="https://spark.adobe.com/page/ClHLYMaUjTUfa/" alt="Exam Details Here ">Adobe Certified Professional - Adobe Commerce Developer</a>
+
+### open source 
+https://www.linkedin.com/pulse/magento2-nosql-database-pwa-support-piotr-karwatka/
