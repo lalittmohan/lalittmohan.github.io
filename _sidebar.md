@@ -58,21 +58,6 @@
       </li>
   </ol>
   </Details>
-  <Details>
-    <summary>Design Patterns</summary>
-  </Details>
-  <ol>
-      <li>
-        <Details>
-        <summary>Factories</summary>
-          <ul>
-            <li><a href="https://12factor.net/codebase" alt="codebase">Codebase <br/><small>One codebase tracked in revision control, many deploys</small></a></li>
-            <li><a href="https://12factor.net/dependencies" alt="dependencies">Dependencies <br/><small>Explicitly declare and isolate dependencies</small></a></li>
-          </ul>
-        </Details>
-      </li>
-  </ol>
-  </Details>
  
 # Open Source Projects
 <Details>

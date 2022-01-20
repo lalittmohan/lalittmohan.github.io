@@ -1,12 +1,10 @@
-<img src="_media/logo.svg" alt="Magento2 Tour" width="58px" height="58px" />
-
 # Magento2 Tour
 
-- Certification Guide
-- Short and quick tasks (~60mins)
-- Solutions Explained
-- Real-life use cases 
+- Certification: Certification Guide
+- Task list: Quick & Small tasks from Modules/Features
+- Concept book: Magento2 Explained
+- Open Source: Real-life use cases 
 
 [Get Started](#magento2-tour)
 
-![color](#f2f8f7)
+![color](#F34434)
