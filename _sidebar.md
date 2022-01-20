@@ -1,32 +1,13 @@
-- [数据结构与算法](/general/algorithm/README.md)
-  - 数据结构
-    - [stack](/general/algorithm/data-structures/stack/README.zh-CN.md)
-    - [queue](/general/algorithm/data-structures/queue/README.zh-CN.md)
-    - list
-      - [linked-list](/general/algorithm/data-structures/linked-list/README.zh-CN.md)
-      - [doubly-linked-list](/general/algorithm/data-structures/doubly-linked-list/README.zh-CN.md)
-    - [tree](/general/algorithm/data-structures/tree/README.zh-CN.md)
-      - [binary search tree](/general/algorithm/data-structures/tree/binary-search-tree/README.md)
-      - [red black tree](/general/algorithm/data-structures/tree/red-black-tree/README.md)
-    - [heap](/general/algorithm/data-structures/heap/README.zh-CN.md)
-    - [hash-table](/general/algorithm/data-structures/hash-table/README.md)
-    - [graph](/general/algorithm/data-structures/graph/README.zh-CN.md)
-  - 算法
-    - [排序算法](/general/algorithm/algorithms/sorting.md)
-- [设计模式](/general/design-pattern/README.md)
-- 网络
-  - [协议模型](/general/network/protocol-model.md)
-  - [TCP/IP](/general/network/tcp-ip.md)
-- [Certifications] 
-  - [Adobe Certified Professional - Adobe Commerce Developer]
-    - [Section 1: Magento Architecture & Customization Techniques]
+- [Certifications](/certification/README.md)
+  - [Adobe Certified Professional - Adobe Commerce Developer](/certification/)
+    - Section 1: Magento Architecture & Customization Techniques
       - 1.1 Describe the Magento module-based architecture(/catalog/create-custom-product-option-type.md)
         - Add Custom Product Option Type
         
-- [Task Book]
-- [Concept Book]
-  - [Architecture]
-    - [Design principles]
+- [Task Book](/taskbook/README.md)
+- [Concept Book](/conceptbook/README.md)
+  - [Architecture](/)
+    - [Design principles](/)
       - Magento follows the principles of 12-factor application
         - [Codebase](https://12factor.net/codebase)
           - One codebase tracked in revision control, many deploys
@@ -52,4 +33,4 @@
           - Treat logs as event streams
         - [Admin processes](https://12factor.net/admin-processes) 
           - Run admin/management tasks as one-off processes
-- [Open Source Projects]
+- [Open Source Projects](/opensource/README.md)
