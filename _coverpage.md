@@ -7,4 +7,4 @@
 
 [Get Started](#magento2-tour)
 
-![color](#F34434)
+![color](#)

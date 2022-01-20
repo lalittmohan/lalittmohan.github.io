@@ -14,4 +14,3 @@
     * [Language highlight](language-highlight.md)
       * [test](nowhere.md)
 * [En](/)
-* [chinese](/zh-cn/)
