@@ -10,7 +10,7 @@ Bonjour!
 
 <!-- tab:Italian -->
 
-dgfhg
+dgfhg <span class="tab-badge">New!</span>
 
 <!-- tabs:end -->
 
