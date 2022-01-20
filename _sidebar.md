@@ -59,7 +59,8 @@
   </ol>
   </Details>
   <Details>
-  <summary>Design Patterns</summary>
+    <summary>Design Patterns</summary>
+  </Details>
   <ol>
       <li>
         <Details>

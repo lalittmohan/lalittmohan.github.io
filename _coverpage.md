@@ -1,4 +1,4 @@
-<img src="_media/logo.png" alt="Magento2 Tour" width="58px" height="58px" />
+<img src="_media/logo.svg" alt="Magento2 Tour" width="58px" height="58px" />
 
 # Magento2 Tour
 
