@@ -1,9 +1,9 @@
 # Magento2 Tour
 
-- Certification: Certification Guide & Study
-- Task list: concrete tasks 
-- Concept book: Magento2 Explained
-- Open Source: Real-life use cases 
+- **Certifications**: Certification Guide & Study
+- **Task Book**: concrete tasks | How to do
+- **Concept Book**: Magento2 Explained| How It's Work
+- **Open Source**: Real-life use cases | Features
 
 [Get Started](#magento2-tour)
 
