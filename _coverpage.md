@@ -1,7 +1,7 @@
 # Magento2 Tour
 
-- Certification: Certification Guide
-- Task list: Quick & Small tasks from Modules/Features
+- Certification: Certification Guide & Study
+- Task list: concrete tasks 
 - Concept book: Magento2 Explained
 - Open Source: Real-life use cases 
 
