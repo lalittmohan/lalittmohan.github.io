@@ -2,23 +2,35 @@
   - [Adobe Certified Professional - Adobe Commerce Developer]
     - [Section 1: Magento Architecture & Customization Techniques]
       - 1.1 Describe the Magento module-based architecture(/catalog/create-custom-product-option-type.md)
-        - Add Custom Product Option Type</a>
+        - Add Custom Product Option Type
         
 - [Task Book]
 - [Concept Book]
   - [Architecture]
     - [Design principles]
       - Magento follows the principles of 12-factor application
-        - Codebase(https://12factor.net/codebase) <br/><small>One codebase tracked in revision control, many deploys</small>
-        - Dependencies(https://12factor.net/dependencies) <br/><small>Explicitly declare and isolate dependencies</small>
-        - Config(https://12factor.net/config) <br/><small>Store config in the environment</small>
-        - Backing services(https://12factor.net/backing-services) <br/><small>Treat backing services as attached resources</small></small>
-        - Build, release, run(https://12factor.net/build-release-run) <br/><small>Strictly separate build and run stages</small>
-        - Processes(https://12factor.net/processes) <br/><small>Execute the app as one or more stateless processes</small>
-        - Port binding(https://12factor.net/port-binding) <br/><small>Export services via port binding</small>
-        - Concurrency(https://12factor.net/concurrency) <br/><small>Scale out via the process model</small>
-        - Disposability(https://12factor.net/disposability) <br/><small>Maximize robustness with fast startup and graceful shutdown</small>
-        - Dev/prod parity(https://12factor.net/dev-prod-parity) <br/><small>Keep development, staging, and production as similar as possible</small>
-        - Logs(https://12factor.net/logs) <br/><small>Treat logs as event streams</small>
-        - Admin processes(https://12factor.net/admin-processes) <br/><small>Run admin/management tasks as one-off processes</small>
+        - [Codebase](https://12factor.net/codebase)
+          - One codebase tracked in revision control, many deploys
+        - [Dependencies](https://12factor.net/dependencies)
+          - Explicitly declare and isolate dependencies
+        - [Config](https://12factor.net/config) 
+          - Store config in the environment
+        - [Backing services](https://12factor.net/backing-services) 
+          - Treat backing services as attached resources
+        - [Build, release, run](https://12factor.net/build-release-run)
+          - Strictly separate build and run stages
+        - [Processes](https://12factor.net/processes)
+          - Execute the app as one or more stateless processes
+        - [Port binding](https://12factor.net/port-binding) 
+          - Export services via port binding
+        - [Concurrency](https://12factor.net/concurrency) 
+          - Scale out via the process model
+        - [Disposability](https://12factor.net/disposability)
+          - Maximize robustness with fast startup and graceful shutdown
+        - [Dev/prod parity](https://12factor.net/dev-prod-parity) 
+          - Keep development, staging, and production as similar as possible
+        - [Logs](https://12factor.net/logs) 
+          - Treat logs as event streams
+        - [Admin processes](https://12factor.net/admin-processes) 
+          - Run admin/management tasks as one-off processes
 - [Open Source Projects]
