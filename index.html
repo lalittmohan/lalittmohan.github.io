@@ -111,7 +111,13 @@
             // the matching substring will be used to identify the index
             pathNamespaces: /^(\/(zh-cn|ru-ru))?(\/(v1|v2))?/
         },
-        disqus: 'shortname'
+        footer: {
+            copy: '<span>Lalit Mohan &copy; 2022</span>',
+            auth: 'by Me',
+            pre: '<hr/>',
+            style: 'text-align: right;',
+            class: 'className',
+        },
 
     };
 </script>
@@ -145,7 +151,7 @@
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-
+<script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 <script src="//unpkg.com/mermaid/dist/mermaid.js"></script>
 <script src="//unpkg.com/docsify-mermaid@latest/dist/docsify-mermaid.js">
     <script>mermaid.initialize({ startOnLoad: true });</script>
