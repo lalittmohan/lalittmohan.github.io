@@ -1,9 +1,8 @@
 - [Certifications](/certification/README.md)
-  - [Adobe Certified Professional - Adobe Commerce Developer](/certification/)
+  - [Adobe Certified Professional - Adobe Commerce Developer](/certification/README.md)
     - Section 1: Magento Architecture & Customization Techniques
       - 1.1 Describe the Magento module-based architecture(/catalog/create-custom-product-option-type.md)
         - Add Custom Product Option Type
-        
 - [Task Book](/taskbook/README.md)
 - [Concept Book](/conceptbook/README.md)
   - [Architecture](/)
