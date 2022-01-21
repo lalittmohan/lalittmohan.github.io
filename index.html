@@ -130,7 +130,16 @@
                 textColor: ""
             }
         },
-        changelog : 'CHANGELOG.md' // path of your changelog, it can be remote as well
+        changelog : 'CHANGELOG.md', // path of your changelog, it can be remote as well,
+        pseudocode: {
+            indentSize: '1.2em',
+            commentDelimiter: '//',
+            lineNumber: false,
+            lineNumberPunc: ':',
+            noEnd: false,
+            titlePrefix: 'Algorithm'
+        },
+
     };
 </script>
 <!--<script>
@@ -186,7 +195,21 @@
         href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
 />
 <script src="https://cdn.jsdelivr.net/npm/docsify-changelog-plugin@latest/dist/index.js"></script>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pseudocode@latest/build/pseudocode.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/pseudocode@latest/build/pseudocode.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/h-hg/docsify-pseudocode/dist/docsify-pseudocode.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_CHTML'></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true,
+      processEnvironments: true,
+    }
+  });
+</script>
 </body>
 
 </html>
