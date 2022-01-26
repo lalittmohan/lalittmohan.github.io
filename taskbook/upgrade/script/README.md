@@ -1,0 +1,1 @@
+>alter the database table with a new column and to add additional data to the database with help of Magento upgrade scripts.

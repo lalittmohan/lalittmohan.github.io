@@ -1,0 +1,1 @@
+>how to handle requests to both backend and frontend areas with the help of routing configuration and controller classes.

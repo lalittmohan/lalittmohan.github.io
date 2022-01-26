@@ -1,0 +1,1 @@
+> integrate all module components developed during the section and output the list of items from database to a frontend page with help of layout, block, and template.

@@ -1,0 +1,1 @@
+>create and fill a database table with data during installation using the InstallSchema and InstallData scripts.

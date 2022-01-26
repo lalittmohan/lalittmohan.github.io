@@ -1,0 +1,1 @@
+>create a resource model as an adaptor between database and code, model as an entity representation in code and a collection.
