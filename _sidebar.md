@@ -3,7 +3,6 @@
 - [Task Book](/taskbook/README.md)
   - [magento2](/)
 - [Concept Book](/conceptbook/README.md)
-  - [magento2](/)
   - [Architecture](/conceptbook/architecture/README.md)
     - [Design principles](/conceptbook/architecture/design-principles/README.md)
     - [Design Patterns](/conceptbook/architecture/design-patterns/README.md)
