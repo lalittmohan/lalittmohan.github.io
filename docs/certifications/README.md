@@ -1,4 +1,4 @@
-- [Adobe Commerce Available Certifications](/certifications/README.md)
+- [Adobe Commerce Available Certifications](/docs/certifications/README.md)
     - [AD0-E711 Adobe Commerce Developer Professional](https://spark.adobe.com/page/WBhc2rZlIxtWC/)
     - [AD0-E709 Adobe Commerce Developer Expert exam](https://spark.adobe.com/page/ZCSxCHupv9Ywq/)
     - [AD0-E701 Adobe Commerce Front-End Developer Expert exam](https://spark.adobe.com/page/14TT3gvQkRV5Q/)
