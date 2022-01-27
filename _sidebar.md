@@ -1,13 +1,16 @@
-- [Certifications](/certification/README.md)
-  - [Adobe Certified Professional - Adobe Commerce Developer](/certification/README.md)
-    - Section 1: Magento Architecture & Customization Techniques
-      - 1.1 Describe the Magento module-based architecture(/catalog/create-custom-product-option-type.md)
-        - Add Custom Product Option Type
+- [Certifications](/certifications/README.md)
+  - [AD0-E711 Adobe Commerce Developer Professional ](https://lalittmohan.github.io/adobe-commerce-professional-certification/)
+  - [AD0-E709 Adobe Commerce Developer Expert exam](https://spark.adobe.com/page/ZCSxCHupv9Ywq/)
+  - [AD0-E701 Adobe Commerce Front-End Developer Expert exam](https://spark.adobe.com/page/14TT3gvQkRV5Q/)
+  - [AD0-E710 Adobe Commerce Front-End Developer Expert exam](https://spark.adobe.com/page/0Gtja2H9ZJEDd/)
+  - [AD0-E705 Adobe Commerce JavaScript Developer Expert exam](https://spark.adobe.com/page/AsAE8yXJ7ofFX/)
+  - [AD0-E706 Adobe Commerce Cloud Developer Expert exam](https://spark.adobe.com/page/34U3DEjqG3G4Q/)
+  - [AD0-E704 Adobe Commerce Architect Master exam](https://spark.adobe.com/page/DY5N6V69tKFGV/)
+  
 - [Task Book](/taskbook/README.md)
 - [Concept Book](/conceptbook/README.md)
-  - [Architecture](/)
-    - [Design principles](/)
-      - Magento follows the principles of 12-factor application
+  - [Architecture](/conceptbook/architecture/README.md)
+    - [Design principles](/conceptbook/architecture/design-principles/README.md)
         - [Codebase- One codebase tracked in revision control, many deploys](https://12factor.net/codebase)
         - [Dependencies- Explicitly declare and isolate dependencies](https://12factor.net/dependencies)
         - [Config- Store config in the environment](https://12factor.net/config) 
@@ -19,5 +22,6 @@
         - [Disposability- Maximize robustness with fast startup and graceful shutdown](https://12factor.net/disposability)
         - [Dev/prod parity- Keep development, staging, and production as similar as possible](https://12factor.net/dev-prod-parity) 
         - [Logs- Treat logs as event streams](https://12factor.net/logs) 
-        - [Admin processes- Run admin/management tasks as one-off processes](https://12factor.net/admin-processes) 
+        - [Admin processes- Run admin/management tasks as one-off processes](https://12factor.net/admin-processes)
+    - [Design Patterns](/conceptbook/architecture/design-patterns/README.md)
 - [Open Source Projects](/opensource/README.md)
