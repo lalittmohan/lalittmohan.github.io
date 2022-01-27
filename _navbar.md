@@ -5,6 +5,6 @@
 * Projects
   * [Magento2 open-source](/)
   * [Omnichannel Solutions](/)
-  * [Block Chain Supply Chain Solutions](/)
+  * [Supply Chain Solutions - Block chain](/)
   
 * [En](/)
