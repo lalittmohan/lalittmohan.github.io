@@ -1,6 +1,6 @@
 # Lalit Mohan || Blog
 - Tech Enthusiastic
 
-[Know More](#)
+[Know More](#app)
 
 ![color](#)
